@@ -34,9 +34,4 @@ pip install pandas numpy matplotlib
 ## Acknowledgments
 - Kaggle for providing the Zomato dataset.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Feel free to explore the code and the insights gained from this analysis. If you have any questions or suggestions, please feel free to reach out.
-
 Happy analyzing! 🍔📊
